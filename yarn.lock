@@ -476,10 +476,10 @@ deepmerge@^4.2.2:
   resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.2.2.tgz#44d2ea3679b8f4d4ffba33f03d865fc1e7bf4955"
   integrity sha512-FJ3UgI4gIl+PHZm53knsuSFpE+nESMr7M4v9QcgB7S63Kj/6WqMiFQJpBBYz1Pt+66bZpP3Q7Lye0Oo9MPKEdg==
 
-dialog-polyfill@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/dialog-polyfill/-/dialog-polyfill-0.5.0.tgz#bf67bc67abaf538e44fff80f2f71ff132befadd7"
-  integrity sha512-fOj68T8KB6UIsDFmK7zYbmORJMLYkRmtsLM1W6wbCVUWu4Hdcud5bqbvuueTxO84JXtK9HcpCHV9vNwlWUdCIw==
+dialog-polyfill@^0.5.6:
+  version "0.5.6"
+  resolved "https://registry.yarnpkg.com/dialog-polyfill/-/dialog-polyfill-0.5.6.tgz#7507b4c745a82fcee0fa07ce64d835979719599a"
+  integrity sha512-ZbVDJI9uvxPAKze6z146rmfUZjBqNEwcnFTVamQzXH+svluiV7swmVIGr7miwADgfgt1G2JQIytypM9fbyhX4w==
 
 diff@^4.0.1:
   version "4.0.2"
