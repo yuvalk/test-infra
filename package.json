@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "code-prettify": "^0.1.0",
-    "color": "^3.1.2",
+    "color": "^3.2.1",
     "dialog-polyfill": "^0.5.0",
     "moment": "^2.22.2",
     "pako": "^1.0.10"
